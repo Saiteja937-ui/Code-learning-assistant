@@ -1,0 +1,12 @@
+.chatbox {width:300px; border:1px solid #ccc; padding:10px;}
+.messages {height:200px; overflow-y:auto;}
+.bot {background:#e0f7fa; margin:5px; padding:8px; border-radius:8px;}
+.user {background:#c8e6c9; margin:5px; padding:8px; border-radius:8px; text-align:right;}
+.courses {display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:20px;}
+.card {background:#fff; border:1px solid #ddd; padding:20px; border-radius:10px;}
+.wellness {max-width:300px; margin:auto; display:flex; flex-direction:column; gap:10px;}
+.chart-placeholder {height:150px; border:1px dashed #aaa; margin-top:20px;}
+.finance {width:100%; border-collapse:collapse;}
+.finance th, .finance td {border:1px solid #ccc; padding:8px; text-align:center;}
+.summary {margin-top:10px; background:#f0f4c3; padding:10px; border-radius:6px;}
+.editor {background:#272822; color:#f8f8f2; padding:20px; border-radius:8px; font-family:monospace;}
